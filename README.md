@@ -1,4 +1,2 @@
 # Računalniški praktikum
-- ctrl+S (shrani spremembe v datoteki)
-- ctrl+O (odpremo File Explorer, kjer najdemo datoteke)
-- ctrl+F (označi iskane besede v besedilu)
+Ctrl+S (shrani spremembe v datoteki), Ctrl+O (odpremo File Explorer, kjer najdemo datoteke), Ctrl+F (označi iskane besede v besedilu)
