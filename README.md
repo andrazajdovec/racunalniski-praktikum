@@ -5,4 +5,4 @@ Ctrl+S (shrani spremembe v datoteki), Ctrl+O (odpremo File Explorer, kjer najdem
 
 7.domača naloga 
 
-andrazajdovec.github.io
+https://github.com/andrazajdovec/andrazajdovec.github.io
